@@ -35,7 +35,7 @@
     "log4js": "^2.4.1",
     "mcnbt": "0.0.7",
     "moment": "^2.19.1",
-    "request": "^2.79.0",
+    "request": "^2.88.2",
     "request-promise": "^4.2.2"
   },
   "devDependencies": {
